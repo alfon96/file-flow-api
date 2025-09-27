@@ -1,3 +1,11 @@
 fastapi[standard]
+celery[redis]
+python-dotenv
+pydantic
 python-multipart
 websockets
+debugpy
+Pillow
+pilgram
+pytest
+git+https://github.com/alfon96/file_flow_common.git@v0.4.1
